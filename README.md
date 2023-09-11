@@ -15,18 +15,27 @@ https://github.com/AVIJITGHOSH2001/reactjs_portfolio_avijit/assets/105862581/65b
 The portfolio website is built using the following technologies:
 
 HTML
+
 CSS
+
 JavaScript
+
 Vue.js (JavaScript framework)
+
 Bootstrap (CSS framework)
+
 
 # Project Structure
 The repository follows the following structure:
 
 index.html: The main HTML file for the portfolio website.
-styles/: Directory containing CSS files for styling the website.
+
+styles/: Directory containing CSS files for styling the website
+.
 scripts/: Directory containing JavaScript files for implementing interactivity and functionality.
+
 images/: Directory containing image assets used in the portfolio.
+
 README.md: This file providing information about the repository.
 
 # Getting Started
