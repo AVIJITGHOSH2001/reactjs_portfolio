@@ -20,6 +20,8 @@ CSS
 
 JavaScript
 
+Reactjs
+
 Vue.js (JavaScript framework)
 
 Bootstrap (CSS framework)
