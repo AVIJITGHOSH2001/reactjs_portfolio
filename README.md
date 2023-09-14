@@ -16,7 +16,7 @@ https://github.com/AVIJITGHOSH2001/reactjs_portfolio_avijit/assets/105862581/65b
 
 
 
-https://avijitghosh2001.github.io/reactjs_portfolio_avijit/
+https://avijitghosh2001.github.io/portfolio/
 
 # Technologies Used
 The portfolio website is built using the following technologies:
