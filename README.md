@@ -8,6 +8,8 @@ A live demo of the portfolio website can be accessed here.
 
 https://github.com/AVIJITGHOSH2001/reactjs_portfolio_avijit/assets/105862581/65b3fa2f-2edd-47d6-b31a-67e35b8d4645
 
+https://avijitghosh2001.github.io/reactjs_portfolio_avijit/
+
 
 
 
